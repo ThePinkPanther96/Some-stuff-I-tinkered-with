@@ -22,7 +22,7 @@ try:
         while pygame.mixer.music.get_busy():
             pygame.time.Clock().tick(10)
 
-        maxtdelay = 3 # Change time delay - minutes
+        maxtdelay = 15 # Change time delay - minutes
         timedelay = random.randrange(1, int(maxtdelay * 60))
 
         now = datetime.now()
