@@ -1,0 +1,20 @@
+Select from the menu: 
+ 
+ [1] Add new item
+ [2] Delete item
+ [3] Modify item
+
+ [4]Exit
+
+
+---- outputs ----
+
+Invalid input. Please provide both the Source path and the Target path.
+
+Invalid path or item name. Please try again.
+EXAMPLE: Development/tools/some_file.sh
+
+Invalid path or name. Please try again.
+EXAMPLE: /personal/videos/some_video.mp4
+
+
